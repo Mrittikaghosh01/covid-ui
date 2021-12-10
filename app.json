@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "Covid_UI",
-    "slug": "Covid_UI",
+    "name": "Covid_Yodhya",
+    "slug": "covid-yodhya",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,14 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#62d0f630"
+      },
+      "package": "com.mrittika2001.covidyodhya"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
